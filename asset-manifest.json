@@ -1,0 +1,15 @@
+{
+  "main.css": "static/css/main.0b106fd7.css",
+  "main.css.map": "static/css/main.0b106fd7.css.map",
+  "main.js": "static/js/main.01130e65.js",
+  "main.js.map": "static/js/main.01130e65.js.map",
+  "static\\media\\ball.png": "static/media/ball.d62514f0.png",
+  "static\\media\\bonus_size_decrease.png": "static/media/bonus_size_decrease.5318c395.png",
+  "static\\media\\bonus_size_encrease.png": "static/media/bonus_size_encrease.fda5174b.png",
+  "static\\media\\bonus_slow_down.png": "static/media/bonus_slow_down.ae54a4b8.png",
+  "static\\media\\bonus_spped_up.png": "static/media/bonus_spped_up.903f4fbf.png",
+  "static\\media\\collision.mp3": "static/media/collision.352e58d1.mp3",
+  "static\\media\\field.png": "static/media/field.43a77481.png",
+  "static\\media\\rocket1.png": "static/media/rocket1.697d3ab5.png",
+  "static\\media\\rocket2.png": "static/media/rocket2.6573fe25.png"
+}
